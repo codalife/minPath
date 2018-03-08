@@ -1,5 +1,5 @@
 # minPath
-The algorithm behind the solution is Breadath Firts Search.
+The algorithm behind the solution is Breadth Firts Search.
 
 It is an expensive approach with exponential big O, which depends on the size of the dictionary.
 
